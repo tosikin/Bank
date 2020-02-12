@@ -46,6 +46,7 @@ namespace BankLibrary
                 }
                 else
                 {
+                    T[] tempAccounts = new T[accounts.Length + 1];
 
                 }
             }
